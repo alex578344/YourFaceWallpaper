@@ -1,0 +1,3 @@
+include ':app', ':library', ':cropper'
+include ':other_lib:AndEngine-GLES2-AnchorCenter'
+include ':other_lib:AndEngineLiveWallpaperExtension-GLES2-AnchorCenter'
